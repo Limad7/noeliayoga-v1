@@ -32,7 +32,7 @@ const About = () => {
                         <span className="badge">Sobre Mí</span>
                         <h2 className="section-title">Tu guía en este camino</h2>
                         <p style={{ marginBottom: '1.5rem', color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.8' }}>
-                            Soy Noelia, instructora con más de 10 años de experiencia, certificada en Pilates, Yoga Oncológico y múltiples estilos como Hatha, Kundalini, Vinyasa, Nidra, Yin Yoga y Restaurativo. Mi pasión es hacer del movimiento consciente una herramienta accesible para mejorar tu calidad de vida, ya sea en el estudio, tu hogar o tu oficina en Leganés, Getafe, Alcorcón y alrededores.
+                            Soy Noelia, instructora con más de 10 años de experiencia, certificada en Yoga Oncológico y múltiples estilos como Hatha, Kundalini, Vinyasa, Nidra, Yin Yoga y Restaurativo. Mi pasión es hacer del movimiento consciente una herramienta accesible para mejorar tu calidad de vida, ya sea en el estudio, tu hogar o tu oficina en Leganés, Getafe, Alcorcón y alrededores.
                         </p>
                         <p style={{ marginBottom: '2rem', color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.8' }}>
                             Creo firmemente que el bienestar no es un lujo, sino una necesidad. Mi enfoque combina la tradición del yoga con técnicas modernas de gestión del estrés y mindfulness.
