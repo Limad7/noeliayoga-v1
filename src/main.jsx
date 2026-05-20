@@ -6,7 +6,7 @@ import App from './App'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/noeliayoga-v1">
+    <BrowserRouter basename="/mis-proyectos-web/noelia-yoga">
       <App />
     </BrowserRouter>
   </StrictMode>,
