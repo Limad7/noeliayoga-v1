@@ -34,8 +34,17 @@ const About = () => {
                         <p style={{ marginBottom: '1.5rem', color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.8' }}>
                             Soy Noelia, instructora con más de 10 años de experiencia, certificada en Yoga Oncológico y múltiples estilos como Hatha, Kundalini, Vinyasa, Nidra, Yin Yoga y Restaurativo. Mi pasión es hacer del movimiento consciente una herramienta accesible para mejorar tu calidad de vida, ya sea en el estudio, tu hogar o tu oficina en Leganés, Getafe, Alcorcón y alrededores.
                         </p>
+                        <p style={{ marginBottom: '1rem', color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.8' }}>
+                            Con certificación oficial de yoga de 680 horas, además dentro de esta rama he podido seguir formándome en especializaciones como Yoga Oncológico, Kundalini Yoga, Vinyasa, Hatha, Yoga Restaurativo, Yin Yoga, Yoga Nidra.
+                        </p>
+                        <p style={{ marginBottom: '1rem', color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.8' }}>
+                            También dispongo del título de instructora de Pilates. Formación en Hipopresivos.
+                        </p>
+                        <p style={{ marginBottom: '1rem', color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.8' }}>
+                            Mis ganas de seguir aprendiendo me han llevado a descubrir el mundo del masaje y a obtener titulación en Masaje Metamórfico y en Shiatsu.
+                        </p>
                         <p style={{ marginBottom: '2rem', color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.8' }}>
-                            Creo firmemente que el bienestar no es un lujo, sino una necesidad. Mi enfoque combina la tradición del yoga con técnicas modernas de gestión del estrés y mindfulness.
+                            Esta vocación por el yoga me lleva a estar en continuo aprendizaje constante para poder introducir en mis clases nuevas técnicas y ejercicios siempre enfocados hacia el bienestar de mis alumnos, porque no hay nada que me dé mayor satisfacción que ver sus caras de relajación tras terminar las clases y el saber que les ayudo a sentirse mejor en su día a día.
                         </p>
 
                         <div className="stats-row" style={{ display: 'flex', gap: '3rem', marginTop: '2rem' }}>
