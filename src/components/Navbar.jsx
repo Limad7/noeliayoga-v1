@@ -32,6 +32,7 @@ const Navbar = () => {
                 {/* Desktop Menu */}
                 <div className="nav-links desktop-only">
                     <a href="/#services" className="nav-link">Servicios</a>
+                    <a href="/#galeria" className="nav-link">Galería</a>
                     <a href="/#about" className="nav-link">Sobre Mí</a>
                     <a href="/#contact" className="nav-link">Contacto</a>
                     <a href="#contact" className="btn-primary" style={{ textDecoration: 'none' }}>
@@ -48,6 +49,7 @@ const Navbar = () => {
             {/* Mobile Menu Overlay */}
             <div className={`mobile-menu ${isOpen ? 'open' : ''}`}>
                 <a href="/#services" className="nav-link" onClick={() => setIsOpen(false)}>Servicios</a>
+                <a href="/#galeria" className="nav-link" onClick={() => setIsOpen(false)}>Galería</a>
                 <a href="/#about" className="nav-link" onClick={() => setIsOpen(false)}>Sobre Mí</a>
                 <a href="/#contact" className="nav-link" onClick={() => setIsOpen(false)}>Contacto</a>
                 <a href="#contact" className="btn-primary" style={{ textDecoration: 'none' }} onClick={() => setIsOpen(false)}>
