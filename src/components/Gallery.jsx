@@ -1,5 +1,6 @@
 import React from 'react';
 import yogaNidra from '../assets/yoga-nidra-session.png';
+import soundHealing from '../assets/sound-healing-bowls.png';
 import '../index.css';
 
 const galleryItems = [
@@ -8,6 +9,12 @@ const galleryItems = [
         image: yogaNidra,
         title: "Yoga Nidra",
         description: "Sesión de relajación profunda guiada"
+    },
+    {
+        id: 2,
+        image: soundHealing,
+        title: "Sonido y Sanación",
+        description: "Cuencos tibetanos en círculo de conexión"
     }
 ];
 
